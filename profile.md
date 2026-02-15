@@ -1,6 +1,6 @@
 M.Kamala kiruthi – Personal Profile
 
-Name:Amarnath
+Name:Kamala kiruthi
 
 Interests
 - Python programming
